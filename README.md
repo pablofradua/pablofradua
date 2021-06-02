@@ -2,7 +2,7 @@ Hi, I’m Pablo Fradua:raising_hand_man:
 
 I'm a Java developer/architect doing backend and frontend stuff
 
-## Interests
+### Interests
 - [x] Java and its ecosystem
 - [x] CI/CD
 - [x] Design Patterns
