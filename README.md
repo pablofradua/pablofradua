@@ -11,7 +11,6 @@ I'm a Java developer/architect doing backend and frontend stuff
 - [x] SQL
 
 
-Currently learning Rust :crab:
 <!---
 pablofradua/pablofradua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
